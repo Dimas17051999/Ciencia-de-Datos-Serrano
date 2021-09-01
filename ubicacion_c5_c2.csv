@@ -1,0 +1,7 @@
+id,geo_point_2d,geo_shape,color,alcaldia,region,long,label,lat,nombre
+0,"19.43177,-99.14669","{""type"": ""Point"", ""coordinates"": [-99.14669, 19.43177]}",blue,Cuauhtémoc,Centro,-99.14669,3,19.43177,C2 Centro
+1,"19.37073,-99.1602","{""type"": ""Point"", ""coordinates"": [-99.1602, 19.370730000000002]}",yellow,Benito Juárez,Sur,-99.1602,9,19.37073,C2 Sur
+2,"19.483154,-99.117016","{""type"": ""Point"", ""coordinates"": [-99.117016, 19.483154]}",SteelBlue,Gustavo A. Madero,Norte,-99.117016,15,19.483154,C2 Norte
+3,"19.39094,-99.19933","{""type"": ""Point"", ""coordinates"": [-99.19933, 19.39094]}",IndianRed,Miguel Hidalgo,Poniente,-99.19933,20,19.39094,C2 Poniente
+4,"19.31301,-99.0651","{""type"": ""Point"", ""coordinates"": [-99.0651, 19.31301]}",green,Iztapalapa,Oriente,-99.0651,14,19.31301,C2 Oriente
+5,"19.42523,-99.11805","{""type"": ""Point"", ""coordinates"": [-99.11805, 19.42523]}",SteelBlue,Venustiano Carranza,Norte,-99.11805,1,19.42523,C5
